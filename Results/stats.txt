@@ -1,0 +1,4 @@
+Average Length of Scene is: 1199.5561497326203
+Shortest Scene is: antony_and_cleopatra:2.8
+Shortest Play is: comedy_of_errors
+Longest Play is: hamlet
